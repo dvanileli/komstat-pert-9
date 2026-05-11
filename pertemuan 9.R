@@ -12,3 +12,5 @@ min(mtcars$hp)
 boxplot(mtcars$disp)
 hist(mtcars$cyl)
 >>>>>>> branch-baru
+
+plot(mtcars$mpg)
