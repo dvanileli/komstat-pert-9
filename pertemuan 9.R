@@ -3,3 +3,6 @@ mean(mtcars$mpg)
 sd(mtcars$mpg)
 mtcars
 max(mtcars$disp)
+min(mtcars$hp)
+
+boxplot(mtcars$disp)
