@@ -6,3 +6,4 @@ max(mtcars$disp)
 min(mtcars$hp)
 
 boxplot(mtcars$disp)
+hist(mtcars$cyl)
