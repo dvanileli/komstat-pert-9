@@ -14,3 +14,5 @@ hist(mtcars$cyl)
 >>>>>>> branch-baru
 
 plot(mtcars$mpg)
+
+hist(mtcars$mpg)
