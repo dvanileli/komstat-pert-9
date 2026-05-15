@@ -15,3 +15,5 @@ hist(mtcars$cyl)
 
 mtcars
 summary(mtcars$qsec)
+sd(mtcars$gear)
+sd(mtcars$qsec)
