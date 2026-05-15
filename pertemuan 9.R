@@ -13,6 +13,5 @@ boxplot(mtcars$disp)
 hist(mtcars$cyl)
 >>>>>>> branch-baru
 
-plot(mtcars$mpg)
-
-hist(mtcars$mpg)
+mtcars
+summary(mtcars$qsec)
